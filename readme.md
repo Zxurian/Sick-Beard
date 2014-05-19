@@ -1,6 +1,8 @@
 Sick Beard
 =====
 
+_*This is a fork of the original Sickbeard, implementing MySQL support*_
+
 *Sick Beard is currently an alpha release. There may be severe bugs in it and at any given time it may not work at all.*
 
 Sick Beard is a PVR for newsgroup users (with limited torrent support). It watches for new episodes of your favorite shows and when they are posted it downloads them, sorts and renames them, and optionally generates metadata for them. It currently supports NZBs.org, NZBMatrix, Bin-Req, NZBs'R'Us, EZTV.it, and any Newznab installation and retrieves show information from theTVDB.com and TVRage.com.
